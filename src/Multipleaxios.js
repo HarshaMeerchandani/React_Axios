@@ -34,7 +34,7 @@ class Multipleaxios extends Component {
   // with spread operator
 
   //}
-
+// with spread oprator
   componentDidMount() {
     axios
       .all([
