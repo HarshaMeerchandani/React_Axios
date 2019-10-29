@@ -1,12 +1,12 @@
 import React from 'react';
-
 import './App.css';
 import Multipleaxios from './Multipleaxios';
-
+import Axiosheader from './Axiosheader';
 function App() {
   return (
     <div className="App">
-   < Multipleaxios/>
+   {/* < Multipleaxios/> */}
+   < Axiosheader />
     </div>
   );
 }
